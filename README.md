@@ -1,2 +1,2 @@
 # WANRMYSCRIPT
-``loadstring(game:HttpGet('https://pastebin.com/yqN9BNTt'))()``
+``loadstring(game:HttpGet('https://raw.githubusercontent.com/HubRobloxScript/WANRMYSCRIPT/main/Lua.lua'))()``
